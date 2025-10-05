@@ -20,9 +20,12 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing.
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-<!-- Teste de commit feito por Natan em 05/10/2025 -->
+### 🧑‍🍳 About the project
+
+DishApp is an Angular-based application for managing and displaying dishes.  
+This project was developed as part of a **college assignment**.
+
