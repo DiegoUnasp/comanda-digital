@@ -13,13 +13,8 @@
 }
 
 .navlinks a {
-<<<<<<< HEAD
   margin-left: 24px; /* espaço entre itens */
   padding-bottom: 4px; /* espaço pro sublinhado */
-=======
-  margin-left: 24px;        /* espaço entre itens */
-  padding-bottom: 4px;      /* espaço pro sublinhado */
->>>>>>> 8c7c0732b04b362872fa3d456a347b7615df5253
   border-bottom: 2px solid transparent; /* linha "apagada" por padrão */
 }
 
